@@ -4,6 +4,8 @@ Everyday formulas for percentages, pricing, interest and investment returns. Eac
 
 **English** · [Türkçe](README.tr.md)
 
+Educational reference only. Independently verify calculations before relying on them. See the [disclaimer](#disclaimer).
+
 ## Downloads
 
 | Resource                            | Formats                                                                                        |
@@ -194,6 +196,14 @@ if i = 0: payment = P / N
 **Example:** Borrow `10,000` for `12` months at a nominal annual rate of `12%`: `i = 0.12 / 12 = 0.01`, so the monthly payment is **about 888.49**. At `0%`, it is **about 833.33**.
 
 **Watch out:** This is the basic amortization formula. It excludes taxes, fees, insurance and extra payments. An actual schedule rounds payments and may adjust the final payment. Dividing by `12` converts a nominal annual rate; an effective annual rate needs the conversion in section 7.
+
+<a id="disclaimer"></a>
+
+## Disclaimer
+
+This repository, including its formulas, examples, PDFs and graphics, is provided for educational and informational purposes only and does not constitute financial, investment, tax or legal advice. The material is provided "as is", without warranties of accuracy, completeness or suitability for a particular purpose. It may contain calculation errors, omissions or incorrect assumptions. Independently verify formulas, inputs and results before making decisions or relying on the material.
+
+To the fullest extent permitted by applicable law, the copyright holders and contributors disclaim liability for any losses or damages arising from using or relying on this material, including calculation errors or omissions. Nothing in this disclaimer excludes or limits liability that cannot lawfully be excluded or limited.
 
 ## Sources
 

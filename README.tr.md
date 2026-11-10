@@ -4,6 +4,8 @@ Yüzde, fiyatlandırma, faiz ve yatırım getirisi için günlük hayatta kullan
 
 [English](README.md) · **Türkçe**
 
+Yalnızca eğitim ve bilgi amaçlıdır. Hesaplamalara dayanmadan önce sonuçları bağımsız olarak doğrulayın. Bkz. [sorumluluk reddi](#disclaimer).
+
 ## İndirilebilir dosyalar
 
 | Kaynak                                 | Biçimler                                                                                       |
@@ -194,6 +196,14 @@ i = 0 ise: taksit = P / N
 **Örnek:** `10.000` borç, `12` ay, yıllık nominal `%12`: `i = 0,12 / 12 = 0,01`, aylık taksit **yaklaşık 888,49**. Faiz `%0` olursa **yaklaşık 833,33**.
 
 **Dikkat:** Bu temel amortisman formülüdür. Vergi, masraf, sigorta ve ek ödemeleri içermez. Gerçek ödeme planı taksitleri yuvarlar ve son taksiti düzeltebilir. Yıllık nominal oran `12'ye` bölünebilir; yıllık efektif oran için 7. bölümdeki dönüşüm gerekir.
+
+<a id="disclaimer"></a>
+
+## Sorumluluk reddi
+
+Formüller, örnekler, PDF'ler ve görseller dahil bu depo yalnızca eğitim ve bilgilendirme amaçlıdır; finansal, yatırım, vergi veya hukuki tavsiye niteliğinde değildir. İçerik "olduğu gibi" sunulur; doğruluğu, eksiksizliği veya belirli bir amaca uygunluğu garanti edilmez. Hesaplama hataları, eksiklikler veya yanlış varsayımlar içerebilir. Karar vermeden veya içeriğe dayanmadan önce formülleri, girdileri ve sonuçları bağımsız olarak doğrulayın.
+
+Uygulanabilir hukukun izin verdiği en geniş ölçüde, telif hakkı sahipleri ve katkıda bulunanlar; hesaplama hataları veya eksiklikler dahil, bu içeriğin kullanılmasından ya da içeriğe dayanılmasından doğan zarar ve kayıplardan sorumluluk kabul etmez. Bu açıklama, hukuken sınırlandırılamayan veya kaldırılamayan sorumlulukları sınırlandırmaz ya da ortadan kaldırmaz.
 
 ## Kaynaklar
 
